@@ -1,5 +1,7 @@
 # Ex03 Time Table
-## Date:
+
+# Name : P.Bharathraj
+# Ref  : 212223230031
 
 ## AIM
 To write a html webpage page to display your slot timetable.
